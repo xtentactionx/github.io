@@ -4,12 +4,18 @@
   
     
     <entry>
-      <title>php基础</title>
-      <link href="/2023/12/28/php%E5%9F%BA%E7%A1%80/"/>
-      <url>/2023/12/28/php%E5%9F%BA%E7%A1%80/</url>
+      <title>web基础</title>
+      <link href="/2023/12/28/web%E5%9F%BA%E7%A1%80/"/>
+      <url>/2023/12/28/web%E5%9F%BA%E7%A1%80/</url>
       
-        <content type="html"><![CDATA[<h1 id="1-php简介"><a href="#1-php简介" class="headerlink" title="1.php简介"></a>1.php简介</h1><h2 id="什么是PHP？"><a href="#什么是PHP？" class="headerlink" title="什么是PHP？"></a>什么是PHP？</h2><p>PHP是＂PHP Hypertext Preprocessor＂的首字母缩略词，是一种被广泛使用的开源脚本语言。</p><h2 id="作用："><a href="#作用：" class="headerlink" title="作用："></a>作用：</h2><p>·PHP能够生成动态页面内容，</p><p>·PHP能够创建、打开、读取、写入、删除以及关闭服务器上的文件</p><p>·PHP能够接收表单数据</p><p>·PHP能够发送并取回 cookies</p><p>·PHP能够添加、删除、修改数据库中的数据</p><p>·PHP能够限制用户访问网站中的某些页面</p><p>·PHP能够对数据进行加密</p><p><img src="/images/image-20231228174038017.png" alt="（图）"></p>]]></content>
+        <content type="html"><![CDATA[<h1 id="1-php学习"><a href="#1-php学习" class="headerlink" title="1.php学习"></a>1.php学习</h1><p>参考教程：<a href="https://www.runoob.com/php/php-tutorial.html">PHP 教程 | 菜鸟教程 (runoob.com)</a></p><p>哪里不会学哪里，大致学习流程：</p><p>PHP基础语法</p><p>一、PHP变量</p><p>PHP 变量规则：</p><ul><li>变量以 $ 符号开始，后面跟着变量的名称</li><li>变量名必须以字母或者下划线字符开始</li><li>变量名只能包含字母、数字以及下划线（A-z、0-9 和 _ ）</li><li>变量名不能包含空格</li><li>变量名是区分大小写的（$y 和 $Y 是两个不同的变量）</li></ul><p>二、PHP数据类型</p><p>三、PHP字符串函数</p><p>字符串的这里的拼接是.</p><p>四、PHP常量</p><p>五、PHP运算符</p><p>六、PHP条件语句</p><p>七、PHP循环语句</p>]]></content>
       
+      
+      <categories>
+          
+          <category> web基础学习 </category>
+          
+      </categories>
       
       
         <tags>
