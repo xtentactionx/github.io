@@ -8,7 +8,7 @@
       <link href="/2023/12/28/php%E5%9F%BA%E7%A1%80/"/>
       <url>/2023/12/28/php%E5%9F%BA%E7%A1%80/</url>
       
-        <content type="html"><![CDATA[<h1 id="1-php简介"><a href="#1-php简介" class="headerlink" title="1.php简介"></a>1.php简介</h1>]]></content>
+        <content type="html"><![CDATA[<h1 id="1-php简介"><a href="#1-php简介" class="headerlink" title="1.php简介"></a>1.php简介</h1><h2 id="什么是PHP？"><a href="#什么是PHP？" class="headerlink" title="什么是PHP？"></a>什么是PHP？</h2><p>PHP是＂PHP Hypertext Preprocessor＂的首字母缩略词，是一种被广泛使用的开源脚本语言。</p><h2 id="作用："><a href="#作用：" class="headerlink" title="作用："></a>作用：</h2><p>·PHP能够生成动态页面内容，</p><p>·PHP能够创建、打开、读取、写入、删除以及关闭服务器上的文件</p><p>·PHP能够接收表单数据</p><p>·PHP能够发送并取回 cookies</p><p>·PHP能够添加、删除、修改数据库中的数据</p><p>·PHP能够限制用户访问网站中的某些页面</p><p>·PHP能够对数据进行加密</p>]]></content>
       
       
       
